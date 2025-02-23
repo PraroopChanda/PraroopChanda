@@ -13,9 +13,9 @@
   </li>
   <li> 🔭 I’m working as a Graduate Research Assistant in the <b><a href= "https://visual-and-spatial-gradient-lab.github.io/vsg.github.io/index.html">Visual and Spatial Gradient Lab</a></b> </li>
   <li> 🔭 I’m working on <b>Optical Flow, Stereo and Depth Estimation Problems using Continual Learning.</b> </li>
-  <li> 🌱 I’m currently learning about <b>3d Vision, Difussion Models and Robotics </b> </li>
-  <li>🤖 Models I’m Working with: <b> Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning </b> </li>
-  <li> 🤔 I’m looking for help with <b>Internships/Co-op for Summer 2025 in the field of Computer and 3D Vision</b> </li>
+  <li> 🌱 I’m currently learning about <b>3d Vision, Difussion Models and Robotics. </b> </li>
+  <li>🤖 Models I’m Working with: <b> Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning. </b> </li>
+  <li> 🤔 I’m looking for help with <b>Internships/Co-op for Summer 2025 in the field of Computer and 3D Vision.</b> </li>
   <li> 📄 Check out my <b><a href="https://drive.google.com/file/d/1LJhtFFMk4DoyhFBRJjhM_Ko-KPB3smY1/view?usp=sharing">resume</a></b> </li>
   <li> 📫 How to reach me: <b><a href="mailto:praroop27@tamu.edu">praroop27@tamu.edu</a></b> </li>
 </ul>
@@ -50,6 +50,13 @@
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
       </td>
     </tr>
+    <tr> <td>Python Packages:</td>
+      <td>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"/>
+      </td>
+    </tr>
     <tr> <td>Databases:</td>
       <td>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
@@ -57,37 +64,6 @@
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
-      </td>
-    </tr>
-    <tr> <td>Web:</td>
-      <td>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"/>
-      </td>
-    </tr>
-    <tr> <td>Testing and Automation:</td>
-      <td>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman"/>
-        <span>Appium, TestNG</span>
-      </td>
-    </tr>
-    <tr> <td>Visualization:</td>
-      <td>
-        <img height="40" src="https://img.icons8.com/?size=400&id=qYfwpsRXEcpc&format=png" alt="Tableau"/>
-        <img height="40" src="https://img.icons8.com/?size=400&id=9Kvi1p1F0tUo&format=png" alt="Tableau"/>
       </td>
     </tr>
     <tr> <td>Misc:</td>
@@ -104,28 +80,10 @@
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"/>
       </td>
     </tr>
-    <tr> <td>Python Packages:</td>
-      <td>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"/>
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-      </td>
-    </tr>
   </table>
 </div>
 <hr/>
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=yashw22&show_icons=true&theme=transparent&count_private=true" alt="Github Stats" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashw22&theme=transparent&show_icons=true&layout=compact" alt="Most Used Languages" /><br/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashw22" alt="yashw22" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yashw22&rank=-?&column=4" alt="Trophies" />
-</div>
-
-<br/>
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=yashw22&style=flat&color=828bed" alt="Profile Views" />
-</div>
 
 <!--
 About me section
