@@ -20,6 +20,11 @@
 </ul>
 <hr/>
 
+<div align="center">
+Current Frameworks: Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning
+</div>
+<hr/> 
+
 <div>
   <h3>Connect with me:</h3>
   <a href="mailto:praroop27@tamu.edu"><img height="40" src="https://img.icons8.com/?id=P7UIlhbpWzZm&format=png" alt="Mail"/></a>
