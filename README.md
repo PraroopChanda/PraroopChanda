@@ -20,9 +20,14 @@
 </ul>
 <hr/>
 
-<div align="center">
+<h3 align="center">
 Current Frameworks:<b> Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning </b>
-</div>
+</h3><br/>
+
+<div align="center">
+  <img height ="300" src="/readme_media/Flow.png">
+  <img height ="300" src="/readme_media/Flow1.png">
+</div> 
 <hr/> 
 
 <div>
