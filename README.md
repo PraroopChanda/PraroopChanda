@@ -21,7 +21,7 @@
 <hr/>
 
 <div align="center">
-Current Frameworks: Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning
+Current Frameworks:<b> Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning </b>
 </div>
 <hr/> 
 
