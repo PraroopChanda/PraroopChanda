@@ -14,7 +14,7 @@
   <li> 🔭 I’m working as a Graduate Research Assistant in the <b><a href= "https://visual-and-spatial-gradient-lab.github.io/vsg.github.io/index.html">Visual and Spatial Gradient Lab</a></b> </li>
   <li> 🔭 I’m working on <b>Optical Flow, Stereo and Depth Estimation Problems using Continual Learning.</b> </li>
   <li> 🌱 I’m currently learning about <b>3d Vision, Difussion Models and Robotics. </b> </li>
-  <li>🤖 Models I’m Working with: <b> Vision Transformers (VIT-16, Swin Transformers), Stable Diffusion, Contrastive Learning. </b> </li>
+  <li>🤖 Models I’m Working with: <b> Vision Transformers (VIT-16, Swin Transformers), DINO, Contrastive Learning (CLIP), Stable Diffusion. </b> </li>
   <li> 🤔 I’m looking for help with <b>Internships/Co-op for Summer 2025 in the field of Computer and 3D Vision.</b> </li>
   <li> 📄 Check out my <b><a href="https://drive.google.com/file/d/1LJhtFFMk4DoyhFBRJjhM_Ko-KPB3smY1/view?usp=sharing">resume</a></b> </li>
   <li> 📫 How to reach me: <b><a href="mailto:praroop27@tamu.edu">praroop27@tamu.edu</a></b> </li>
@@ -22,7 +22,7 @@
 <hr/>
 
 <h3 align="center">
-<ins>Flow, Stereo and Depth Estimation Results</ins>
+<ins>Flow, Stereo and Depth Estimation</ins>
 </h3><br/>
 
 <div align="center">
@@ -48,6 +48,15 @@
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java"/>
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Models: 
+      </td>
+      <td>
+        Vision Transformers (VIT-16, Swin Transformers),</br> 
+        DINO, Contrastive Learning(CLIP), Stable Diffusion.
       </td>
     </tr>
     <tr> <td>Python Packages:</td>
