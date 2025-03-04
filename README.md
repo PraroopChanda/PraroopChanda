@@ -27,7 +27,7 @@
 
 <div align="center">
   <img height ="300" src="/readme_media/Flow.png">
-  <img height ="300" src="/readme_media/Flow1.png">
+  <img height ="300" src="/readme_media/val_000321_flow.png">
 </div> 
 <hr/> 
 
