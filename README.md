@@ -16,7 +16,7 @@
   <li> 🌱 I’m currently learning about <b>3d Vision, Difussion Models and Robotics. </b> </li>
   <li>🤖 Models I’m Working with: <b> Vision Transformers (VIT-16, Swin Transformers), DINO, Contrastive Learning (CLIP), Stable Diffusion. </b> </li>
   <li> 🤔 I’m looking for  <b>Full-time/Co-op for Spring 2026 in the field of Computer and 3D Vision.</b> </li>
-  <li> 📄 Check out my <b><a href="https://drive.google.com/file/d/1LJhtFFMk4DoyhFBRJjhM_Ko-KPB3smY1/view?usp=sharing">resume</a></b> </li>
+  <li> 📄 Check out my <b><a href="https://drive.google.com/file/d/1YBMUXJaWPKFCGVC95qoA3xLaZeII25Sv/view?usp=sharing">resume</a></b> </li>
   <li> 📫 How to reach me: <b><a href="mailto:praroop27@tamu.edu">praroop27@tamu.edu</a></b> </li>
 </ul>
 <hr/>
